@@ -40,5 +40,5 @@ def Update():
 ```
 
 ## Platforms:
-- PC: ✅
-- Mobile: ❎
+- PC: supprted
+- Mobile: not-supported
